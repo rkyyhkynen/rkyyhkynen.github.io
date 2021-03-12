@@ -1,11 +1,11 @@
 function goLinkedin() {
-    window.location = "www.linkedin.com/in/rasmus-kyyhkynen"
+    location.href = "www.linkedin.com/in/rasmus-kyyhkynen"
 }
 
 function goGithub() {
-  window.location = "https://github.com/rkyyhkynen"
+    location.href = "https://github.com/rkyyhkynen"
 }
 
 function goInstagram() {
-  window.location = "https://www.instagram.com/rkyyhky/"
+    location.href = "https://www.instagram.com/rkyyhky/"
 }
