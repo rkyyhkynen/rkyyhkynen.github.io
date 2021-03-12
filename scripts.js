@@ -1,5 +1,5 @@
 function goLinkedin() {
-    location.href = "www.linkedin.com/in/rasmus-kyyhkynen"
+    location.href = "https://www.linkedin.com/in/rasmus-kyyhkynen"
 }
 
 function goGithub() {
